@@ -6,6 +6,7 @@ export default function PaginaCaixa () {
             <Caixas />
             <Caixas />
             <Caixas />
+            <Caixas />
         </div>
     )
 }
